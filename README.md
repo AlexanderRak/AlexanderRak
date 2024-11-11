@@ -10,9 +10,14 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alexanderprague/" height="30" width="40" />
 </a>
 </p>
-
+<style type="text/css">
+  .skils__grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr)
+  }
+</style>
 <h3 align="left">Languages and Tools:</h3>
-<div align="skils__grid">
+<div class="skils__grid">
   <div class="skils__grid-item">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </div>
