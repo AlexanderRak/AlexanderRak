@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Alexander Rak</h1>
+<h1 align="center">Hi 👋, My name is Alexander</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
 ## 🛠️ Skills and Tools
@@ -85,7 +85,9 @@
     git clone https://github.com/AlexanderRak/project-name.git
   ```
 2. **Install dependencies:**:
-  ```npm install```
+  ```npm install
+  ```
 
 3. **Run the local server:**:
-  ```npm run serve```
+  ```npm run serve
+  ```
