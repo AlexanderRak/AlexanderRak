@@ -65,7 +65,7 @@
 - **Features**:
   - Add, Remove, Ready task
 
-### 2. [ToDo List Application v2](https://alexanderrak.github.io/vue2-doto-list-v2/)
+### 2. [ToDo List Application v2] In development(https://alexanderrak.github.io/vue2-doto-list-v2/)
 - **Description**: A simple and functional task list application using Vue and Vuex.
 - **Tech Stack**: Vue 2, Vuex, Sass (SCSS), Vue CLI, npm, reset.css, Inter (Google Fonts), 
 - **Features**:
