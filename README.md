@@ -54,6 +54,12 @@
 
 ## 🚀 Projects
 
+- [Applications](#applications)
+- [Landing Pages](#landing-pages)
+
+## Applications
+<h3 align="center">Applications</h3>
+
 ### 1. [ToDo List Application](https://alexanderrak.github.io/vue2-doto-list/)
 - **Description**: A simple and functional task list application using Vue.
 - **Tech Stack**: Vue 2, Prop, Sass (SCSS), Vue CLI, npm, v-on, v-if
@@ -73,6 +79,19 @@
   - Interactive Animations: Visual feedback for interactions, enhancing the user experience.
   - Reset CSS: A unified style baseline across different browsers using reset.css.
   - Modern Typography: Clean, readable font styling with the Inter font from Google Fonts.
+
+## landing-pages
+<h3 align="center">Landing Pages</h3>
+
+### 1. [Comfy Books](https://comfy.ua/ua/comfylibrary/)
+- **Description**: Simple and functional application for receiving personal books based on phone number and key.
+- **Tech Stack**: Vue 2 cdn, Sass (SCSS), API, Swiper slider
+- **Features**:
+  - Checking the number and key for relevance.
+  - Displaying modal windows with text information
+  - Convenient pagination with scrolling to the top of the page
+  - Fast download of books in any format
+  - Convenient photo scrolling for personal books
 
 ## 📈 GitHub Stats
 
