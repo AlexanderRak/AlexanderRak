@@ -8,7 +8,7 @@
 - **Development Tools**: Git, npm,
 - **Design**: Responsive design, Flexbox, Grid
 - **Testing**: Vue Test Utils
-- **Other**: REST API, Figma, Photoshop, UX/UI principles, Bootstrap, Gulp, Materialize, Postman, Gsap
+- **Other**: REST API, Figma, Photoshop, UX/UI principles, Bootstrap, Gulp, Materialize, Postman, Gsap, SwiperSlider, SlickSlider
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -58,7 +58,6 @@
 - [Landing Pages](#landing-pages)
 
 ## Applications
-<h3 align="center">Applications</h3>
 
 ### 1. [ToDo List Application](https://alexanderrak.github.io/vue2-doto-list/)
 - **Description**: A simple and functional task list application using Vue.
@@ -81,7 +80,6 @@
   - Modern Typography: Clean, readable font styling with the Inter font from Google Fonts.
 
 ## landing-pages
-<h3 align="center">Landing Pages</h3>
 
 ### 1. [Comfy Books](https://comfy.ua/ua/comfylibrary/)
 - **Description**: Simple and functional application for receiving personal books based on phone number and key.
