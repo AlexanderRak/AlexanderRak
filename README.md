@@ -78,7 +78,7 @@
   - Reset CSS: A unified style baseline across different browsers using reset.css.
   - Modern Typography: Clean, readable font styling with the Inter font from Google Fonts.
 
-### 3. [Comfy Books](https://comfy.ua/ua/comfylibrary/)
+### 3. [Books](https://comfy.ua/ua/comfylibrary/)
 - **Description**: Simple and functional application for receiving personal books based on phone number and key.
 - **Tech Stack**: Vue 2 cdn, Sass (SCSS), API, Swiper slider
 - **Features**:
