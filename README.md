@@ -55,7 +55,6 @@
 ## 🚀 Projects
 
 - [Applications](#applications)
-- [Landing Pages](#landing-pages)
 
 ## Applications
 
@@ -79,9 +78,7 @@
   - Reset CSS: A unified style baseline across different browsers using reset.css.
   - Modern Typography: Clean, readable font styling with the Inter font from Google Fonts.
 
-## landing-pages
-
-### 1. [Comfy Books](https://comfy.ua/ua/comfylibrary/)
+### 3. [Comfy Books](https://comfy.ua/ua/comfylibrary/)
 - **Description**: Simple and functional application for receiving personal books based on phone number and key.
 - **Tech Stack**: Vue 2 cdn, Sass (SCSS), API, Swiper slider
 - **Features**:
