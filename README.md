@@ -66,6 +66,14 @@ Repository github: [link](https://github.com/AlexanderRak/vue2-todo-list-v2)
 
 ### 3. [Books](https://comfy.ua/ua/comfylibrary/)
 ! - The code cannot be shown due to the company's privacy policy.
+- **Description**: Simple and functional application for receiving personal books based on phone number and key.
+- **Tech Stack**: Vue 2 cdn, Sass (SCSS), API, Swiper slider, Pagination
+- **Features**:
+  - Checking the number and key for relevance.
+  - Displaying modal windows with text information
+  - Convenient pagination with scrolling to the top of the page
+  - Fast download of books in any format
+  - Convenient photo scrolling for personal books
 
 ## 📈 GitHub Stats
 
