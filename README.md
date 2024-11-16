@@ -6,7 +6,7 @@
 - **Programming Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass
 - **Frameworks**: Vue.js, Vuex
 - **Development Tools**: Git, npm,
-- **Design**: Responsive design, Flexbox, Grid
+- **Design**: Responsive design, Pixel perfect, Flexbox, Grid, CSS animation
 - **Testing**: Vue Test Utils
 - **Other**: REST API, Figma, Photoshop, UX/UI principles, Bootstrap, Gulp, Materialize, Postman, Gsap, SwiperSlider, SlickSlider
 
@@ -59,34 +59,13 @@
 ## Applications
 
 ### 1. [ToDo List Application](https://alexanderrak.github.io/vue2-doto-list/)
-- **Description**: A simple and functional task list application using Vue.
-- **Tech Stack**: Vue 2, Prop, Sass (SCSS), Vue CLI, npm, v-on, v-if
-- **Features**:
-  - Add, Remove, Ready task
+Repository github: [link](https://github.com/AlexanderRak/vue2-doto-list)
 
 ### 2. [ToDo List Application v2](https://alexanderrak.github.io/vue2-todo-list-v2/)
-- **Description**: A simple and functional task list application using Vue and Vuex.
-- **Tech Stack**: Vue 2, Vuex, Sass (SCSS), Vue CLI, npm, reset.css, Inter (Google Fonts), 
-- **Features**:
-  - Task Management: Create, view, and manage a list of tasks efficiently.
-  - Task Completion Tracking: Mark tasks as completed with a single click and view completed tasks separately.
-  - Dynamic Task Removal: Easily delete tasks to keep your list organized.
-  - Responsive UI: Designed with mobile-first principles, ensuring a seamless experience across devices.
-  - Global State Management: All tasks are managed via Vuex, allowing for consistent data handling across the app.
-  - Customizable Themes: Colors and font styles can be easily customized via Sass variables.
-  - Interactive Animations: Visual feedback for interactions, enhancing the user experience.
-  - Reset CSS: A unified style baseline across different browsers using reset.css.
-  - Modern Typography: Clean, readable font styling with the Inter font from Google Fonts.
+Repository github: [link](https://github.com/AlexanderRak/vue2-todo-list-v2)
 
 ### 3. [Books](https://comfy.ua/ua/comfylibrary/)
-- **Description**: Simple and functional application for receiving personal books based on phone number and key.
-- **Tech Stack**: Vue 2 cdn, Sass (SCSS), API, Swiper slider
-- **Features**:
-  - Checking the number and key for relevance.
-  - Displaying modal windows with text information
-  - Convenient pagination with scrolling to the top of the page
-  - Fast download of books in any format
-  - Convenient photo scrolling for personal books
+! - The code cannot be shown due to the company's privacy policy.
 
 ## 📈 GitHub Stats
 
